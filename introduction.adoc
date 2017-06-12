@@ -1,0 +1,9 @@
+[[spring-boot-guide]]
+Spring Boot Guide
+-----------------
+
+In this project, we will explore Spring Boot along with some other
+libraries.
+
+Domain for this project would be a Online Library Portal and is
+described link:/domain-of-guide.adoc[here].

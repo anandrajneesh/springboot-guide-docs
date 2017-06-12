@@ -1,0 +1,12 @@
+= Spring Boot Guide
+:numbered:
+:toc:
+:toclevels: 3
+
+include::introduction.adoc[]
+include::including-spring-boot.adoc[]
+include::quick-hello-world.adoc[]
+include::rest-with-mvc.adoc[]
+include::testing-rest-webmvctest.adoc[]
+include::logging.adoc[]
+include::gotchas.adoc[]
